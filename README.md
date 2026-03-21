@@ -1,0 +1,2 @@
+# next-data-pipeline-ghwj
+Repository to test GitHub automation for issue management
